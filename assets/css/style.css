@@ -1,0 +1,56 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5 auto;
+}
+
+.me {
+    padding: 10px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    padding: 10px 0 10px 0;
+}
+
+.perfil {
+    float: left;
+    border: solid black 2px;
+    text-align: center;
+    background-color: rgb(169, 169, 169, 0.4);
+    height: 950px;
+
+}
+
+h3 {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 33px;
+}
+
+.sobre {
+    background-color: rgb(169, 169, 169, 0.4);
+    float: right;
+    border: solid black 2px;
+    width: 85.6%;
+    text-align: center;
+    height: 950px;
+}
+.titulo{
+    margin-top: 150px 0 0 0 ;
+    border-top: solid;
+    font-size: 22px;
+    border-bottom: solid;
+}
+.escrita{
+    font-size: 22px;
+    text-align: left;
+    font-style: oblique;
+}
